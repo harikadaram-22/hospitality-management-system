@@ -1,0 +1,13 @@
+{
+  "name": "hospitality-management-system",
+  "version": "1.0.0",
+  "description": "Complete single-file Hospitality Management Dashboard web application.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "license": "MIT"
+}
