@@ -1,0 +1,13 @@
+{
+  "name": "hospitality-management-system",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js API for hotel and hospitality management.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "license": "MIT"
+}
